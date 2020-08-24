@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+lxml
+bs4
+DnGI6@n9$./
+DnGI6@n9$./
